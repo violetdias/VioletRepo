@@ -1,3 +1,2 @@
 # VioletRepo
 valuesoflife
-:-) be quick
